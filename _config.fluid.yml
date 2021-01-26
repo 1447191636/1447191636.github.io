@@ -359,7 +359,7 @@ scroll_top_arrow:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: '每一个不曾起舞的日子，都是对生命的辜负'
+  content: '觉得为时已晚的时候，恰恰是最早的时候'
 
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
@@ -397,7 +397,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /images/wallhaven-vg7lv3.jpg
+  banner_img: https://cdn.jsdelivr.net/gh/pipi-lv/pipi-lv.github.io@hexo-source/source/images/wallhaven-vg7lv3.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
